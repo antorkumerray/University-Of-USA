@@ -1,0 +1,35 @@
+
+
+@media (max-width: 576px) { 
+    html{
+        font-size: 50%;
+    }
+    .cnt img{
+        width: 20%;
+    }
+    .nav{
+        width: 80%;
+    }
+    .nav a{
+        font-size: 1px;
+    }
+    .fe-box{
+        margin-bottom: 10px;
+        
+    }
+    .t-box{
+        display: none;
+    }
+}
+/* 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) {  } */
